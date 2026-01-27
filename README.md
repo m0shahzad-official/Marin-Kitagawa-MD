@@ -29,9 +29,26 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Sten-X/Marin-Kitagawa-MD visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
-  
-      
- 
+
+<h2 align="center"> 💖 Step 0: Get Session ID (Essential) 💖 </h2>
+
+<p align="center">
+  <b>Before deploying, you need a Session ID! ✨</b><br>
+  I have created a super cute & advanced panel just for you.<br>
+  It supports both <b>QR Code</b> and <b>Pairing Code</b> methods!<br>
+  <br>
+  <a href="https://marin-session-gen.onrender.com/">
+    <img src="https://img.shields.io/badge/GET_SESSION_ID-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white" width="250px" alt="Session Generator">
+  </a>
+  <br>
+  <small>Click the button above to generate your session instantly!</small>
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
 <h4 align="center"> Deploy on Repl.it - ( YouTube Tutorial Included & Highly Recommended )
 </h4>
 
@@ -90,24 +107,7 @@
 
 
 <br>
- <!--   
-<h4 align="center"> Deploy on Heroku ( Isn't Working it will be fixed soon ! )
-</h4>
-
-</p>
-
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Sten-X/Marin-Kitagawa-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
-    </a>
-
-https://youtu.be/R-_DU73UH8Q
-</p> -->
-
-
-
-
-<br>
+ <br>
 <h4 align="center"> Facing Trouble? Join my WhatsApp Group for Support.
 </h4>
 
