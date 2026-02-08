@@ -18,11 +18,11 @@ if (!gg) {
 
 global.owner = gg.split(",");
 
-global.mongodb = process.env.MONGODB || "mongodb+srv://rajdevorcreator:Sten-X001@cluster0.bfbbyuu.mongodb.net/?appName=Cluster0";
+global.mongodb = process.env.MONGODB || "mongodb";
 
 global.sessionId = process.env.SESSION_ID || "Marin7";
 
-global.prefa = process.env.PREFIX || "!";
+global.prefa = process.env.PREFIX || ".";
 
 global.tenorApiKey = process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
 
