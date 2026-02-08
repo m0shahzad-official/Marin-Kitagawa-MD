@@ -20,7 +20,7 @@ global.owner = gg.split(",");
 
 global.mongodb = process.env.MONGODB || "mongodb";
 
-global.sessionId = process.env.SESSION_ID || "Marin7";
+global.sessionId = process.env.SESSION_ID || "testgit2";
 
 global.prefa = process.env.PREFIX || ".";
 
