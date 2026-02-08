@@ -22,6 +22,4 @@ jobs:
         run: npm install
 
       - name: Run Bot
-        env:
-          MONGODB: ${{ secrets.MONGODB }}
         run: npm start
